@@ -1,2 +1,4 @@
 # Star-Face
-A website to find similar star faces.
+
+![starface](./frontend/src/starface.png)
+A website to find most similar star faces.
